@@ -34,7 +34,7 @@
           "type": "git"
         }
       ],
-      "type": "prompt"
+      "type": "rprompt"
     },
     {
       "alignment": "left",
